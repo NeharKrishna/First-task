@@ -1,0 +1,64 @@
+ .Devices{
+    width: 300px;
+    border: 4px solid black;
+    padding:5px;
+    font-weight: bold;
+    display: inline-block;
+    margin: 25px;
+    border-radius: 8px;
+    text-align: center;
+}
+.button span{
+    background-color: rgba(80, 48, 6, 0.508);
+    border: 2px solid black;
+    padding:5px;
+    border-radius: 10px;
+}
+.Devices1{
+    width: 300px;
+    border: 4px solid black;
+    padding:5px;
+    font-weight: bold;
+    display: inline-block;
+    margin: 25px;
+    border-radius: 8px;
+    text-align: center;
+}
+.button1 span{
+    background-color: rgba(80, 48, 6, 0.508);
+    border: 2px solid black;
+    padding:5px;
+    border-radius: 10px;
+}
+.Devices2{
+    width: 300px;
+    border: 4px solid black;
+    padding:5px;
+    font-weight: bold;
+    display: inline-block;
+    margin: 25px;
+    border-radius: 8px;
+    text-align: center;
+}
+.button2 span{
+    background-color: rgba(80, 48, 6, 0.508);
+    border: 2px solid black;
+    padding:5px;
+    border-radius: 10px;
+}
+.Devices3{
+    width: 300px;
+    border: 4px solid black;
+    padding:5px;
+    font-weight: bold;
+    display: inline-block;
+    margin: 25px;
+    border-radius: 8px;
+    text-align: center;
+}
+.button3 span{
+    background-color: rgba(80, 48, 6, 0.508);
+    border: 2px solid black;
+    padding:5px;
+    border-radius: 10px;
+}
